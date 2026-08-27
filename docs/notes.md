@@ -5,3 +5,4 @@ Notes, additions and corrections from people who use this documentation. Contrib
 - martint80988: fixed a broken link and reworded a paragraph
 - DavideEvans77347: clarified the delivery window wording
 - Holland644: added a note about replacement coverage
+- GulWard12: cleaned up the FAQ answers
