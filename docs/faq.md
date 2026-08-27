@@ -29,3 +29,7 @@ Yes - the same package can be split across repositories, tracked per order.
 ### What payment methods are supported?
 
 Payment details are confirmed on Telegram when your order is placed.
+
+### Can I get a smaller starter order?
+
+Yes - custom numbers are available at the same flat price. Start small and scale up.
