@@ -23,3 +23,5 @@ Every order carries a 24-hour replacement guarantee. If anything drops within th
 > Replacement note: anything that drops within 24 hours of delivery is restored.
 
 > Stock note: availability is confirmed before payment - never after.
+
+> Order note: mixing signals across a single order keeps the growth story consistent.
