@@ -19,3 +19,5 @@ Every order carries a 24-hour replacement guarantee. If anything drops within th
 > Tracking note: each order gets a confirmation and live progress updates on Telegram.
 
 > Method note: accounts carry years of real activity, which is why the pattern holds.
+
+> Replacement note: anything that drops within 24 hours of delivery is restored.
