@@ -45,3 +45,7 @@ We track each order and confirm completion; anything that drops within 24 hours 
 ### Can I choose specific accounts?
 
 Account selection is available for aged accounts - message us for the current stock list.
+
+### Is there a bulk discount?
+
+Yes - larger volumes, recurring orders and enterprise requirements are quoted on Telegram.
