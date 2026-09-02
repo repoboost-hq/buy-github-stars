@@ -41,3 +41,7 @@ The first actions land within the delivery window (12-24 hours), paced gradually
 ### Do you offer monitoring after delivery?
 
 We track each order and confirm completion; anything that drops within 24 hours is replaced.
+
+### Can I choose specific accounts?
+
+Account selection is available for aged accounts - message us for the current stock list.
