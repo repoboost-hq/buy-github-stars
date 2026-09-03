@@ -21,3 +21,5 @@ Every order carries a 24-hour replacement guarantee. If anything drops within th
 > Method note: accounts carry years of real activity, which is why the pattern holds.
 
 > Replacement note: anything that drops within 24 hours of delivery is restored.
+
+> Stock note: availability is confirmed before payment - never after.
