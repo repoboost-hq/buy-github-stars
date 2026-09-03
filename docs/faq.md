@@ -33,3 +33,7 @@ Payment details are confirmed on Telegram when your order is placed.
 ### Can I get a smaller starter order?
 
 Yes - custom numbers are available at the same flat price. Start small and scale up.
+
+### When will I see the first results?
+
+The first actions land within the delivery window (12-24 hours), paced gradually.
