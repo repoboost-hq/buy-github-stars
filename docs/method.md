@@ -17,3 +17,5 @@ Every order carries a 24-hour replacement guarantee. If anything drops within th
 > Window note: 12-24 hours is the standard delivery window for every order size.
 
 > Tracking note: each order gets a confirmation and live progress updates on Telegram.
+
+> Method note: accounts carry years of real activity, which is why the pattern holds.
