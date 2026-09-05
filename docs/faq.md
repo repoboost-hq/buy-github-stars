@@ -17,3 +17,7 @@ Yes - any mix of stars, forks, watches and followers at the same flat price.
 ---
 
 *More questions? Message us on [Telegram](https://t.me/AlpinTamhas928).*
+
+### Can I order updates to my delivery?
+
+Yes - message us on Telegram mid-delivery and we adjust the pacing.
