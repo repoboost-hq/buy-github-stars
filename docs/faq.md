@@ -49,3 +49,7 @@ Account selection is available for aged accounts - message us for the current st
 ### Is there a bulk discount?
 
 Yes - larger volumes, recurring orders and enterprise requirements are quoted on Telegram.
+
+### Can I order updates to my delivery?
+
+Yes - message us on Telegram mid-delivery and we adjust the pacing.
