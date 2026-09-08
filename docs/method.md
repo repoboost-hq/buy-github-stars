@@ -27,3 +27,5 @@ Every order carries a 24-hour replacement guarantee. If anything drops within th
 > Order note: mixing signals across a single order keeps the growth story consistent.
 
 > Pacing note: orders scale the delivery curve smoothly - larger orders are spread, not burst.
+
+> Window note: 12-24 hours is the standard delivery window for every order size.
