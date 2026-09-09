@@ -37,3 +37,7 @@ Yes - custom numbers are available at the same flat price. Start small and scale
 ### When will I see the first results?
 
 The first actions land within the delivery window (12-24 hours), paced gradually.
+
+### Do you offer monitoring after delivery?
+
+We track each order and confirm completion; anything that drops within 24 hours is replaced.
