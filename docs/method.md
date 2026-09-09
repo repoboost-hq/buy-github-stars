@@ -15,3 +15,5 @@ Orders are delivered gradually over 12-24 hours - never in a single burst. Pacin
 Every order carries a 24-hour replacement guarantee. If anything drops within that window, it is restored - no questions asked.
 
 > Window note: 12-24 hours is the standard delivery window for every order size.
+
+> Tracking note: each order gets a confirmation and live progress updates on Telegram.
