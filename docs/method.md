@@ -25,3 +25,5 @@ Every order carries a 24-hour replacement guarantee. If anything drops within th
 > Stock note: availability is confirmed before payment - never after.
 
 > Order note: mixing signals across a single order keeps the growth story consistent.
+
+> Pacing note: orders scale the delivery curve smoothly - larger orders are spread, not burst.
