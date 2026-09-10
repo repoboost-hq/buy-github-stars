@@ -21,3 +21,7 @@ Yes - any mix of stars, forks, watches and followers at the same flat price.
 ### Can I order updates to my delivery?
 
 Yes - message us on Telegram mid-delivery and we adjust the pacing.
+
+### Do you support multiple repositories in one order?
+
+Yes - the same package can be split across repositories, tracked per order.
