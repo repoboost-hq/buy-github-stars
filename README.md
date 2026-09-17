@@ -93,9 +93,6 @@ Message @AlpinTamhas928 on Telegram with your repo and numbers. You get live del
 
 ## Related
 
-- [Buy the Full Bundle](https://github.com/repoboost-hq/buy-github-bundle) - stars, forks, watches and followers in one package
-- [Buy GitHub Followers](https://github.com/repoboost-hq/buy-github-followers) - profile credibility from real accounts
-- [GitHub Search Ranking](https://github.com/repoboost-hq/github-search-ranking) - top 1-5 on any keyword you name
 - [github-stars-history](https://github.com/Marcos66236/github-stars-history) - open-source star history tracker
 
 More from the org: [github.com/repoboost-hq](https://github.com/repoboost-hq)
