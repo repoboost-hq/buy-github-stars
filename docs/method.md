@@ -2,9 +2,12 @@
 
 ## How it works
 
-Fresh accounts with no history are the easiest pattern for GitHub's fraud detection to flag. An account created last week starring 40 repositories in an hour is a spike. An account with nine years of commits, issues and pull requests starring one repository looks like an audience arriving.
+- **Real history** - every account has years of public commits before it stars your repo.
+- **Balanced signals** - stars arrive together with forks, watches and followers.
+- **Natural pacing** - delivery looks like an audience arriving, not a purchase.
+- **Honest limits** - we tell you what lasts and what gets caught elsewhere.
 
-That is the entire method: real accounts, real pacing, real history. It is slower than the alternatives - and it is the only pattern that survives.
+The usual way is accounts created weeks ago, one burst in the same hour, stars only, no support. The RepoBoost way is real accounts with years of commit history, a gradual 12-24 hour window, and every signal growing together.
 
 ## Delivery window
 
@@ -13,19 +16,3 @@ Orders are delivered gradually over 12-24 hours - never in a single burst. Pacin
 ## After delivery
 
 Every order carries a 24-hour replacement guarantee. If anything drops within that window, it is restored - no questions asked.
-
-> Window note: 12-24 hours is the standard delivery window for every order size.
-
-> Tracking note: each order gets a confirmation and live progress updates on Telegram.
-
-> Method note: accounts carry years of real activity, which is why the pattern holds.
-
-> Replacement note: anything that drops within 24 hours of delivery is restored.
-
-> Stock note: availability is confirmed before payment - never after.
-
-> Order note: mixing signals across a single order keeps the growth story consistent.
-
-> Pacing note: orders scale the delivery curve smoothly - larger orders are spread, not burst.
-
-> Window note: 12-24 hours is the standard delivery window for every order size.
