@@ -4,7 +4,7 @@ Frequently asked questions about Buy GitHub Stars.
 
 ### How fast is delivery?
 
-Packages are delivered within 12-24 hours, paced gradually. Larger volumes up to 40,000 stars are quoted on Telegram.
+Packages are delivered within 12-24 hours, paced gradually. Larger volumes up to 40,000 stars are quoted on the website.
 
 ### Where do the stars come from?
 
@@ -36,8 +36,8 @@ That is the entire point of the method: stars arrive gradually from aged account
 
 ### How do I order?
 
-Message @AlpinTamhas928 on Telegram with your repo and numbers. You get live delivery updates.
+Start on the website - buygithub.com carries the order flow and the delivery updates.
 
 ---
 
-*More questions? Message us on [Telegram](https://t.me/AlpinTamhas928).*
+*More questions? The order flow, live updates and support are at buygithub.com.*

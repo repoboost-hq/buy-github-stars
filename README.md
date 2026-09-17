@@ -52,7 +52,7 @@ Scaling a launch? Large orders up to **40,000 stars** with the same quality and 
 
 ### 🔄 How ordering works
 
-1. **Message us on Telegram** - tell us your repo and what you need.
+1. **Start on the website** - tell us your repo and what you need at buygithub.com.
 2. **We confirm and start delivery** - numbers confirmed before payment; delivery begins immediately.
 3. **Watch your repo grow** - stars arrive gradually over 12-24 hours from aged accounts with real activity.
 
@@ -81,7 +81,7 @@ Stars influence GitHub search ranking, trending eligibility and how visitors rea
 
 **How fast is delivery?**
 
-Packages are delivered within 12-24 hours, paced gradually. Larger volumes up to 40,000 stars are quoted on Telegram.
+Packages are delivered within 12-24 hours, paced gradually. Larger volumes up to 40,000 stars are quoted on the website.
 
 **Where do the stars come from?**
 
@@ -113,7 +113,7 @@ That is the entire point of the method: stars arrive gradually from aged account
 
 **How do I order?**
 
-Message @AlpinTamhas928 on Telegram with your repo and numbers. You get live delivery updates.
+Start on the website - buygithub.com carries the order flow and the delivery updates.
 
 ## Related
 
@@ -130,8 +130,7 @@ More from the org: [github.com/repoboost-hq](https://github.com/repoboost-hq)
 ---
 
 <p align="center">
-  <b><a href="https://t.me/AlpinTamhas928">💬 Talk to us on Telegram</a></b> &nbsp;|&nbsp;
-  <a href="https://buygithub.com/buy-github-stars/?utm_source=github&utm_medium=readme&utm_campaign=buy-github-stars">🌐 buygithub.com</a> &nbsp;|&nbsp;
+  <b><a href="https://buygithub.com/buy-github-stars/?utm_source=github&utm_medium=readme&utm_campaign=buy-github-stars">🌐 buygithub.com</a></b> &nbsp;|&nbsp;
   <a href="https://github.com/repoboost-hq">🧰 More from the org</a>
 </p>
 <p align="center"><sub>Independent service. Not affiliated with GitHub, Inc.</sub></p>
