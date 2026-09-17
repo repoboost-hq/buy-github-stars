@@ -56,6 +56,22 @@ Scaling a launch? Large orders up to **40,000 stars** with the same quality and 
 2. **We confirm and start delivery** - numbers confirmed before payment; delivery begins immediately.
 3. **Watch your repo grow** - stars arrive gradually over 12-24 hours from aged accounts with real activity.
 
+### 🛡️ Guarantees and honest limits
+
+- **No-drop guarantee** - anything that drops within 24 hours of delivery is replaced free.
+- **Honest limits** - no provider can promise permanence; GitHub controls its own systems. Gradual delivery from real accounts is the most durable method that exists.
+- **Live updates** - order confirmation and delivery progress on Telegram.
+
+### 📊 How stars affect visibility
+
+Stars influence GitHub search ranking, trending eligibility and how visitors read a repository. The mechanics are documented in detail: see [how the GitHub Trending algorithm works](https://buygithub.com/blog/how-github-stars-work/?utm_source=github&utm_medium=readme&utm_campaign=buy-github-stars) for star velocity research, and [GitHub Search Ranking](https://buygithub.com/github-search-ranking/?utm_source=github&utm_medium=readme&utm_campaign=buy-github-stars) for placing a repository in the top 1-5 results for chosen keywords.
+
+### 🧰 Related services
+
+- [The full GitHub bundle](https://buygithub.com/buy-github-bundle/?utm_source=github&utm_medium=readme&utm_campaign=buy-github-stars) - every signal in one balanced order
+- [Buy GitHub Followers](https://buygithub.com/buy-github-followers/?utm_source=github&utm_medium=readme&utm_campaign=buy-github-stars) - profile credibility from aged accounts
+- [How star delivery works](https://buygithub.com/product/stars/?utm_source=github&utm_medium=readme&utm_campaign=buy-github-stars) - the delivery page
+
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1500&color=F97316&center=true&vCenter=true&width=620&lines=Real+aged+accounts;Gradual+pacing;No-drop+guarantee"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1500&color=F97316&center=true&vCenter=true&width=620&lines=Real+aged+accounts;Gradual+pacing;No-drop+guarantee" alt="Buy GitHub Stars"></a>
@@ -87,12 +103,21 @@ Yes, they stay. We offer a no-drop guarantee. Our humanized delivery technology 
 
 Yes - any combination in one order. See the packages above.
 
+**How many stars should I order?**
+
+A number your repository's age and activity can carry naturally. Balanced packages scale from 1,000 actions upward, and exact custom numbers are available - we will tell you honestly what looks natural for your repo.
+
+**Will my repo still look natural with purchased stars?**
+
+That is the entire point of the method: stars arrive gradually from aged accounts with real history, together with forks, watches and followers - the pattern that reads as discovery rather than promotion.
+
 **How do I order?**
 
 Message @AlpinTamhas928 on Telegram with your repo and numbers. You get live delivery updates.
 
 ## Related
 
+- [GitHub Search Ranking](https://github.com/repoboost-hq/github-search-ranking) - top 1-5 on any keyword you name
 - [github-stars-history](https://github.com/Marcos66236/github-stars-history) - open-source star history tracker
 
 More from the org: [github.com/repoboost-hq](https://github.com/repoboost-hq)

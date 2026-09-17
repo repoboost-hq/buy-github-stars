@@ -26,6 +26,14 @@ Yes, they stay. We offer a no-drop guarantee. Our humanized delivery technology 
 
 Yes - any combination in one order. See the packages above.
 
+### How many stars should I order?
+
+A number your repository's age and activity can carry naturally. Balanced packages scale from 1,000 actions upward, and exact custom numbers are available - we will tell you honestly what looks natural for your repo.
+
+### Will my repo still look natural with purchased stars?
+
+That is the entire point of the method: stars arrive gradually from aged accounts with real history, together with forks, watches and followers - the pattern that reads as discovery rather than promotion.
+
 ### How do I order?
 
 Message @AlpinTamhas928 on Telegram with your repo and numbers. You get live delivery updates.
