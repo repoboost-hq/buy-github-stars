@@ -15,6 +15,11 @@
   <img src="https://img.shields.io/github/last-commit/repoboost-hq/buy-github-stars?style=flat&color=22c55e&label=last%20commit" alt="last commit">
 </p>
 
+<p align="center">
+  <a href="https://buygithub.com/buy-github-stars/?utm_source=github&utm_medium=readme&utm_campaign=buy-github-stars"><img src="https://img.shields.io/badge/Website-Buy%20GitHub%20Stars-F97316?style=for-the-badge" alt="Visit buygithub.com to buy GitHub stars from aged accounts"></a>
+  <a href="https://buygithub.com/product/stars/?utm_source=github&utm_medium=readme&utm_campaign=buy-github-stars"><img src="https://img.shields.io/badge/Delivery-How%20Stars%20Arrive-181717?style=for-the-badge" alt="How GitHub star delivery works - gradual 12-24 hour window"></a>
+</p>
+
 # Buy GitHub Stars - Real Growth From Aged Accounts
 
 Buy GitHub stars that look like an audience, not a purchase. Every star comes from a real aged account with years of public commit history, delivered gradually so the graph grows the way a genuinely discovered project does - never as a single suspicious spike.
@@ -55,6 +60,10 @@ Scaling a launch? Large orders up to **40,000 stars** with the same quality and 
 1. **Start on the website** - tell us your repo and what you need at buygithub.com.
 2. **We confirm and start delivery** - numbers confirmed before payment; delivery begins immediately.
 3. **Watch your repo grow** - stars arrive gradually over 12-24 hours from aged accounts with real activity.
+
+<p align="center">
+  <a href="https://buygithub.com/buy-github-stars/?utm_source=github&utm_medium=readme&utm_campaign=buy-github-stars"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1500&color=F97316&center=true&vCenter=true&width=620&lines=Start+your+order+on+buygithub.com;Aged+accounts,+real+history;Delivery+in+12-24+hours" alt="Order GitHub stars on buygithub.com - aged accounts, real history, 12-24 hour delivery"></a>
+</p>
 
 ### 🛡️ Guarantees and honest limits
 
